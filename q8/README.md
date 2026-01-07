@@ -1,4 +1,5 @@
 Unify Lists (Flatten) in Haskell
+
 Author: João Henrique Silva Lima
 
 This folder contains the solution for the list manipulation exercise. The objective was to create a function that takes a "list of lists" of integers and combines (or flattens) them into a single, unified list of integers.
@@ -29,5 +30,6 @@ Technologies used
 Haskell (GHC)
 
 List Concatenation (++)
+
 
 Recursion
