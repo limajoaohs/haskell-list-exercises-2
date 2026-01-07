@@ -1,4 +1,5 @@
 Find Largest Number in Haskell
+
 Author: João Henrique Silva Lima
 
 This folder contains the solution for the exercise focused on list comparisons. The objective was to create a function that identifies the largest integer within a list without using the built-in max or maximum functions provided by the standard library.
@@ -27,5 +28,6 @@ Technologies used
 Haskell (GHC)
 
 Recursion
+
 
 Conditional Logic (if-then-else)
