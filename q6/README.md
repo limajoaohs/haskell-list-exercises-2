@@ -1,4 +1,5 @@
 Count Plural Words in Haskell
+
 Author: João Henrique Silva Lima
 
 This folder contains the solution for the string list manipulation exercise. The objective was to create a function that analyzes a list of words and counts how many of them are in the plural form.
@@ -34,5 +35,6 @@ Haskell (GHC)
 List Recursion
 
 String Inspection (last)
+
 
 Conditional Logic
