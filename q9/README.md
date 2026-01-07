@@ -1,4 +1,5 @@
 Split List at Index in Haskell
+
 Author: João Henrique Silva Lima
 
 This folder contains the solution for the list manipulation exercise. The objective was to create a function that divides a list of integers into two separate lists based on a specific count n, returning them as a single pair (a tuple).
@@ -29,5 +30,6 @@ Technologies used
 Haskell (GHC)
 
 Tuples
+
 
 Standard Library Functions (take, drop)
