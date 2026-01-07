@@ -1,4 +1,5 @@
 Get Element by Index in Haskell
+
 Author: João Henrique Silva Lima
 
 This folder contains the solution for the exercise focused on list indexing. The objective was to create a function that retrieves a specific element from a list based on a given index, similar to how array indexing works in imperative languages, but implemented using functional recursion.
@@ -25,5 +26,6 @@ Technologies used
 Haskell (GHC)
 
 Recursion
+
 
 Pattern Matching
