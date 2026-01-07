@@ -1,4 +1,5 @@
 List Length Calculator in Haskell
+
 Author: João Henrique Silva Lima
 
 This folder contains the solution for the exercise regarding list manipulation. The objective was to create a function that calculates how many elements are present in a list without relying on the standard length function provided by Haskell.
@@ -25,5 +26,6 @@ Technologies used
 Haskell (GHC)
 
 Recursion
+
 
 Pattern Matching
