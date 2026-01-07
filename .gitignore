@@ -1,0 +1,4 @@
+echo "*.hi" >> .gitignore
+echo "*.o" >> .gitignore
+echo "q[0-9]" >> .gitignore
+echo "q[0-9].exe" >> .gitignore
