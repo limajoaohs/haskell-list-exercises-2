@@ -1,4 +1,5 @@
 Symmetric Sum of List Elements in Haskell
+
 Author: João Henrique Silva Lima
 
 This folder contains the solution for the list manipulation exercise. The objective was to create a function that traverses a list of integers from both ends simultaneously, summing the symmetric elements (the first with the last, the second with the second-to-last, and so on).
@@ -29,5 +30,6 @@ Technologies used
 Haskell (GHC)
 
 List Manipulation (last, init)
+
 
 Recursion
