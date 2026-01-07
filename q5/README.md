@@ -1,4 +1,5 @@
 Left Padding a String in Haskell
+
 Author: João Henrique Silva Lima
 
 This folder contains the solution for the text manipulation exercise. The objective was to create a function that adds a specific number of empty spaces to the beginning (left side) of a given string, which is a common operation for text formatting and indentation.
@@ -25,5 +26,6 @@ Technologies used
 Haskell (GHC)
 
 String Manipulation
+
 
 Recursion
