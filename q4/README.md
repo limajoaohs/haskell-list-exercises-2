@@ -1,4 +1,5 @@
 Extract Uppercase Letters in Haskell
+
 Author: João Henrique Silva Lima
 
 This folder contains the solution for the text filtering exercise. The objective was to create a function that processes a string and removes all characters except for uppercase letters.
@@ -31,5 +32,6 @@ Haskell (GHC)
 Recursion
 
 Conditional Logic
+
 
 Character Comparison
